@@ -43,6 +43,7 @@ required-features = ["device"]
 
 [features]
 device = []
+klee-analysis = []
 
 [package.metadata.docs.rs]
 features = ["device"]
